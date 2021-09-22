@@ -1,0 +1,22 @@
+/* demo css */
+.container {
+	width: 50%;
+	margin: 10% auto;
+}
+/* write example css below */
+.box{
+	border-style: solid
+	border-right-styke: solid;
+	border-bottom-style: solid;
+	border-bottom-style: solid;
+	}
+.box{
+	border-style: solid solid solid solid
+}
+.box{
+	color: red;
+	padding: 10%;
+	margin: 5% 10%
+	border: 10px solid gray;
+}
+
